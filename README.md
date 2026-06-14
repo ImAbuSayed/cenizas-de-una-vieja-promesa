@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cenizas-de-una-vieja-promesa/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Cenizas de una vieja promesa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cenizas-de-una-vieja-promesa/) |
+| **Get License** | [License this song: Cenizas de una vieja promesa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cenizas-de-una-vieja-promesa/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `b34b4e31fd9d30686e0b0091bdd535992b08fcd772bbf373aa367c30677ec118` |
 | **Timestamp** | June 14, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

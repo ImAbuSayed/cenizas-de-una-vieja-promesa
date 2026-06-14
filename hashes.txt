@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Cenizas de una vieja promesa
+
+This log tracks the cryptographic history and versioning for the song **Cenizas de una vieja promesa** (cenizas-de-una-vieja-promesa).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T14:19:04.034440 | `v1` | `b34b4e31fd9d30686e0b0091bdd535992b08fcd772bbf373aa367c30677ec118` | `170b1f1022354885d5a3b4c9aca41e56501ea597cf430c50da00e530c4d5ef62` | `2026-06-14_cenizas-de-una-vieja-promesa-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
