@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cenizas-de-una-vieja-promesa/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Cenizas de una vieja promesa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cenizas-de-una-vieja-promesa/) |
+| **Get License** | [Music Rights & Licensing for Cenizas de una vieja promesa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cenizas-de-una-vieja-promesa/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Me dejaste el alma en fuego, baby, no te miento
+> Tus cenizas de promesa bailan con el viento
+> Pero esta noche en la disco, chula, yo te encuentro
+> Y en la pista oscura lento te devuelvo el tiempo
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
